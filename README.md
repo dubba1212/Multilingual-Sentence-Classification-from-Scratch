@@ -1,4 +1,4 @@
-# Homework 2: Sentence Classification from Scratch CS 678
+# Multilingual Sentence Classification from Scratch
 
 ## Introduction
 This assignment involves building an end-to-end system for text classification in a multilingual setting. The task revolves around identifying the framing of sentences in various languages related to social issues like immigration and same-sex marriage. The assignment encompasses understanding the task specification, collecting and annotating data, training and testing models, and finally deploying the system.
@@ -14,6 +14,7 @@ Unlabeled data is gathered from various sources using commands to a language mod
 
 ## Model Training and Testing
 A text classification model is trained using the collected data. Hyperparameters are fine-tuned to achieve optimal performance. The model is evaluated on the validation and test sets to measure accuracy.
+
 ## Running the Python File on Google Colab
 
 To run the Python file on Google Colab, follow these steps:
